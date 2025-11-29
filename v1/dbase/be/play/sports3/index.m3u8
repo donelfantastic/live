@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
-http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:07:C2:8A&stream=96326&extension=m3u8
+http://besthome4k.xyz:80/play/live.php?mac=00:1A:79:7F:1C:E8&stream=721667&extension=m3u8
+##http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:07:C2:8A&stream=96326&extension=m3u8##
